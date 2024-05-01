@@ -16,6 +16,7 @@ A collection of tools and apps built using the blossom spec
  - [Satellite CDN](https://satellite.earth/cdn) [![GitHub Repo stars](https://img.shields.io/github/stars/lovvtide/satellite-cdn)](https://github.com/lovvtide/satellite-cdn) A blossom compatible gateway for Cloudflare R2 object storage
  - [Blossom Server ts](https://github.com/hzrd149/blossom-server) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-server)](https://github.com/hzrd149/blossom-server) Typescript implementation of a Blossom Server
  - [bun-relay](https://github.com/zapstore/bun-relay) [![GitHub Repo stars](https://img.shields.io/github/stars/zapstore/bun-relay)](https://github.com/zapstore/bun-relay) A simple nostr relay written in Javascript with a blossom server
+ - [void-cat-rs](https://git.v0l.io/Kieran/void-cat-rs) [![GitHub Repo stars](https://img.shields.io/gitea/stars/Kieran/void-cat-rs?gitea_url=https%3A%2F%2Fgit.v0l.io)](https://git.v0l.io/Kieran/void-cat-rs) Rust implementation of a Blossom Server that also suppprts NIP-96
 
 ## Libraries
 
