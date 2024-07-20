@@ -19,6 +19,7 @@ A collection of tools and apps built using the blossom spec
  - [void-cat-rs](https://git.v0l.io/Kieran/void-cat-rs) [![GitHub Repo stars](https://img.shields.io/gitea/stars/Kieran/void-cat-rs?gitea_url=https%3A%2F%2Fgit.v0l.io)](https://git.v0l.io/Kieran/void-cat-rs) Rust implementation of a Blossom Server that also suppprts NIP-96
  - [Servus](https://github.com/servuscms/servus)![stars](https://img.shields.io/github/stars/servuscms/servus.svg?style=social) - A self-contained, single executable, CMS / blogging engine reminiscent of Jekyll which also acts as a personal Nostr relay and Blossom server. Written in Rust.
  - [cf-worker-blossom-server](https://git.v0l.io/florian/cf-worker-blossom-server) [![GitHub Repo stars](https://img.shields.io/gitea/stars/florian/cf-worker-blossom-server?gitea_url=https%3A%2F%2Fgit.v0l.io)](https://git.v0l.io/florian/cf-worker-blossom-server) A blossom server writting using Cloudflare components (Workers, KV, R2)
+ - [Go Blossom Server](https://github.com/sebdeveloper6952/blossom-server) [![GitHub Repo stars](https://img.shields.io/github/stars/sebdeveloper6952/blossom-server)](https://github.com/sebdeveloper6952/blossom-server) Blossom Server & Client written in Golang
 
 ## Libraries
 
