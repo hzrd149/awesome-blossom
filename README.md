@@ -31,5 +31,4 @@ A collection of tools and apps built using the blossom spec
 ## Available blossom servers
 
 - [cdn.satellite.earth](https://cdn.satellite.earth) 
-- [files.v0l.io](https://files.v0l.io/) 
 - [cdn.nostrcheck.me](https://cdn.nostrcheck.me) 
