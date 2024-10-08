@@ -11,6 +11,7 @@ A collection of tools and apps built using the blossom spec
  - [Blossom Drive](https://blossom.hzrd149.com/) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-drive)](https://github.com/hzrd149/blossom-drive) A public cloud drive built on blossom servers and nostr
  - [Bouquet](https://bouquet.slidestr.net/) [![Gitea Stars](https://img.shields.io/gitea/stars/florian/bouquet?gitea_url=https%3A%2F%2Fgit.v0l.io)](https://git.v0l.io/florian/bouquet) A tool to manage your content on blossom severs (Upload, Distribution, Posting)
  - [blossom](https://git.fiatjaf.com/blossom) A CLI util for all things blossom
+ - [nostr-http-openapi](https://github.com/chebizarro/nostr-http-openapi) OpenAPI specs for blossom endpoints
 
 ## Server Implementations
 
