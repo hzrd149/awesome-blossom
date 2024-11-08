@@ -23,6 +23,7 @@ A collection of tools and apps built using the blossom spec
  - [cf-worker-blossom-server](https://git.v0l.io/florian/cf-worker-blossom-server) [![GitHub Repo stars](https://img.shields.io/gitea/stars/florian/cf-worker-blossom-server?gitea_url=https%3A%2F%2Fgit.v0l.io)](https://git.v0l.io/florian/cf-worker-blossom-server) A blossom server writting using Cloudflare components (Workers, KV, R2)
  - [Go Blossom Server](https://github.com/sebdeveloper6952/blossom-server) [![GitHub Repo stars](https://img.shields.io/github/stars/sebdeveloper6952/blossom-server)](https://github.com/sebdeveloper6952/blossom-server) Blossom Server & Client written in Golang
  - [Nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts) [![GitHub Repo stars](https://img.shields.io/github/stars/quentintaranpino/nostrcheck-api-ts)](https://github.com/quentintaranpino/nostrcheck-api-ts) TypeScript Blossom server that also supports NIP-96, NIP-05 and other sovereign tools, easy installation with docker-compose.
+ - [Blossom for Cloudron](https://git.nostrdev.com/stuff/blossom-cloudron) Packaging Blossom for Cloudron app servers
 
 ## Libraries
 
