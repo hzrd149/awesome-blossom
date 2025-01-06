@@ -13,7 +13,7 @@ A collection of tools and apps built using the blossom spec
  - [blossom](https://git.fiatjaf.com/blossom) A CLI util for all things blossom
  - [Blossom Uploader CLI](https://github.com/girino/blossom-cli) Blossom Uploader CLI is a command-line tool for uploading, downloading, and listing files on a Blossom server.
  - [nostr-http-openapi](https://github.com/chebizarro/nostr-http-openapi) OpenAPI specs for blossom endpoints
- - [Blossom Aduit]([https://blossom.hzrd149.com/](https://github.com/hzrd149/blossom-audit)) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-audit)](https://github.com/hzrd149/blossom-audit) A cli tool for auditing blossom servers
+ - [Blossom Aduit](https://blossom.hzrd149.com/) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-audit)](https://github.com/hzrd149/blossom-audit) A cli tool for auditing blossom servers
 
 ## Server Implementations
 
