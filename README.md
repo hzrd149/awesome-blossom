@@ -29,6 +29,7 @@ A collection of tools and apps built using the Blossom spec
  - [Blossom for Cloudron](https://git.nostrdev.com/stuff/blossom-cloudron) [![Gitea Repo stars](https://img.shields.io/gitea/stars/stuff/blossom-cloudron?gitea_url=https%3A%2F%2Fgit.nostrdev.com)](https://git.nostrdev.com/stuff/blossom-cloudron) Packaging Blossom for Cloudron app servers
  - [cherry-server](https://github.com/0xtrr/cherry-server) [![GitHub Repo stars](https://img.shields.io/github/stars/0xtrr/cherry-server)](https://github.com/0xtrr/cherry-server) A media server based on the Blossom protocol
 - [Alienos](https://github.com/dezh-tech/alienos) [![GitHub Repo stars](https://img.shields.io/github/stars/dezh-tech/alienos)](https://github.com/dezh-tech/alienos) A golang relay with a built-in managable blossom server.
+- [Nostr Media Uploads for WordPress](https://github.com/fabianfabian/nostr-media) [![GitHub Repo stars](https://img.shields.io/github/stars/fabianfabian/nostr-media)]((https://github.com/fabianfabian/nostr-media)) A plugin to use your WordPress website as a blossom or NIP-96 media server
 
 ## Libraries
 
