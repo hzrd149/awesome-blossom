@@ -10,10 +10,10 @@ A collection of tools and apps built using the Blossom spec
 
  - [Blossom Drive](https://blossom.hzrd149.com/) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-drive)](https://github.com/hzrd149/blossom-drive) A public cloud drive built on blossom servers and nostr
  - [Bouquet](https://bouquet.slidestr.net/) [![Gitea Stars](https://img.shields.io/gitea/stars/florian/bouquet?gitea_url=https%3A%2F%2Fgit.v0l.io)](https://git.v0l.io/florian/bouquet) A tool to manage your content on blossom severs (Upload, Distribution, Posting)
- - [`nak blossom`](https://github.com/fiatjaf/nak) A nak subcommand for all things Blossom
- - [Blossom Uploader CLI](https://github.com/girino/blossom-cli) Blossom Uploader CLI is a command-line tool for uploading, downloading, and listing files on a Blossom server.
- - [nostr-http-openapi](https://github.com/chebizarro/nostr-http-openapi) OpenAPI specs for blossom endpoints
- - [Blossom Aduit](https://blossom.hzrd149.com/) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-audit)](https://github.com/hzrd149/blossom-audit) A CLI tool for auditing blossom servers
+ - [`nak blossom`](https://github.com/fiatjaf/nak) ![stars](https://img.shields.io/github/stars/fiatjaf/nak.svg?style=social) A nak subcommand for all things Blossom
+ - [Blossom Uploader CLI](https://github.com/girino/blossom-cli) ![stars](https://img.shields.io/github/stars/girino/blossom-cli.svg?style=social)Blossom Uploader CLI is a command-line tool for uploading, downloading, and listing files on a Blossom server.
+ - [nostr-http-openapi](https://github.com/chebizarro/nostr-http-openapi)![stars](https://img.shields.io/github/stars/chebizarro/nostr-http-openapi.svg?style=social) OpenAPI specs for blossom endpoints
+ - [Blossom Audit](https://github.com/hzrd149/blossom-audit)![stars](https://img.shields.io/github/stars/hzrd149/blossom-audit.svg?style=social) A CLI tool for auditing blossom servers
 
 ## Server Implementations
 
