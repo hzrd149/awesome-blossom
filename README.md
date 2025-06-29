@@ -14,6 +14,7 @@ A collection of tools and apps built using the Blossom spec
  - [Blossom Uploader CLI](https://github.com/girino/blossom-cli) ![stars](https://img.shields.io/github/stars/girino/blossom-cli.svg?style=social)Blossom Uploader CLI is a command-line tool for uploading, downloading, and listing files on a Blossom server.
  - [nostr-http-openapi](https://github.com/chebizarro/nostr-http-openapi)![stars](https://img.shields.io/github/stars/chebizarro/nostr-http-openapi.svg?style=social) OpenAPI specs for blossom endpoints
  - [Blossom Audit](https://github.com/hzrd149/blossom-audit)![stars](https://img.shields.io/github/stars/hzrd149/blossom-audit.svg?style=social) A CLI tool for auditing blossom servers
+ - [Sakura](https://github.com/0xtrr/sakura) ![stars](https://img.shields.io/github/stars/0xtrr/sakura.svg?style=social) A webapp where you can manage blossom media and configuration
 
 ## Server Implementations
 
