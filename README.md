@@ -8,6 +8,7 @@ A collection of tools and apps built using the Blossom spec
 
 ## Tools
 
+ - [Bloom](https://github.com/Letdown2491/bloom) ![GitHub Repo stars](https://img.shields.io/github/stars/letdown2491/bloom) A full-featured file manager for Blossom servers with full NIP-94 metadata support, a familiar folder-based interface, full NIP-94 metadata support, file and folder sharing, file encryption, a private link proxy, and more.
  - [Blossom Drive](https://blossom.hzrd149.com/) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-drive)](https://github.com/hzrd149/blossom-drive) A public cloud drive built on blossom servers and nostr
  - [Bouquet](https://bouquet.slidestr.net/) [![Gitea Stars](https://img.shields.io/gitea/stars/florian/bouquet?gitea_url=https%3A%2F%2Fgit.v0l.io)](https://git.v0l.io/florian/bouquet) A tool to manage your content on blossom severs (Upload, Distribution, Posting)
  - [`nak blossom`](https://github.com/fiatjaf/nak) ![stars](https://img.shields.io/github/stars/fiatjaf/nak.svg?style=social) A nak subcommand for all things Blossom
