@@ -50,6 +50,7 @@ A collection of tools and apps built using the Blossom spec
  - [blossom-client-sdk](https://www.npmjs.com/package/blossom-client-sdk) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-client-sdk)](https://github.com/hzrd149/blossom-client-sdk) A javascript client for manage blobs on blossom servers
  - [blossom-server-sdk](https://www.npmjs.com/package/blossom-server-sdk) [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/blossom-server-sdk)](https://github.com/hzrd149/blossom-server-sdk) A collection of javascript classes to for building blossom servers
  - [blob-store](https://github.com/kehiy/blobstore) [![GitHub Repo stars](https://img.shields.io/github/stars/kehiy/blobstore)](https://github.com/kehiy/blobstore) A collection of file storage interfaces specifically designed for storing blossom blobs using khatru.
+ - [python-blossom](https://github.com/Jxck-S/python-blossom) [![GitHub Repo stars](https://img.shields.io/github/stars/Jxck-S/python-blossom)](https://github.com/Jxck-S/python-blossom) A Python client library for managing blobs on blossom servers.
 
 
 ## Available blossom servers
