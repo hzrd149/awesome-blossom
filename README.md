@@ -34,7 +34,9 @@ A collection of tools and apps built using the Blossom spec
  - [Nostrcheck-server](https://github.com/quentintaranpino/nostrcheck-api-ts) [![GitHub Repo stars](https://img.shields.io/github/stars/quentintaranpino/nostrcheck-api-ts)](https://github.com/quentintaranpino/nostrcheck-api-ts) TypeScript Blossom server that also supports NIP-96, NIP-05 and other sovereign tools, easy installation with docker-compose.
  - [Blossom for Cloudron](https://git.nostrdev.com/stuff/blossom-cloudron) [![Gitea Repo stars](https://img.shields.io/gitea/stars/stuff/blossom-cloudron?gitea_url=https%3A%2F%2Fgit.nostrdev.com)](https://git.nostrdev.com/stuff/blossom-cloudron) Packaging Blossom for Cloudron app servers
  - [cherry-server](https://github.com/0xtrr/cherry-server) [![GitHub Repo stars](https://img.shields.io/github/stars/0xtrr/cherry-server)](https://github.com/0xtrr/cherry-server) A media server based on the Blossom protocol
-- [Nostr Media Uploads for WordPress](https://github.com/fabianfabian/nostr-media) [![GitHub Repo stars](https://img.shields.io/github/stars/fabianfabian/nostr-media)]((https://github.com/fabianfabian/nostr-media)) A plugin to use your WordPress website as a blossom or NIP-96 media server
+ - [Nostr Media Uploads for WordPress](https://github.com/fabianfabian/nostr-media) [![GitHub Repo stars](https://img.shields.io/github/stars/fabianfabian/nostr-media)]((https://github.com/fabianfabian/nostr-media)) A plugin to use your WordPress website as a blossom or NIP-96 media server
+ - [Morganite](https://github.com/greenart7c3/Morganite) [![GitHub Repo stars](https://img.shields.io/github/stars/greenart7c3/Morganite)](https://github.com/greenart7c3/Morganite) A local blossom cache for android
+ - [flower-cache](https://github.com/hzrd149/flower-cache)  [![GitHub Repo stars](https://img.shields.io/github/stars/hzrd149/flower-cache)](https://github.com/hzrd149/flower-cache) A Blossom proxy server that caches blobs locally and proxies requests to upstream servers
 
 <details>
 <summary>No longer maintained</summary>
